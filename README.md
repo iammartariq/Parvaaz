@@ -39,6 +39,9 @@ Built using modern web technologies to ensure a seamless, responsive, and secure
 ```
 
 2. load the frontend
+```bash
+  cd Desktop/Parvaaz/Frontend
+```
 2.1  "ONLY IF" node modules are not installed in the frontend folder then install them by:
 ```bash
   npm install
